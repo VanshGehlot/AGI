@@ -84,7 +84,7 @@ LLMs or Large Language Models are neural networks trained on massive amounts of 
 
 * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", ACL, Jun 2021. [[Paper](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 
-# Free Cources Available 🧠 
+## Free Cources Available 🧠 
 
 * [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 * [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
@@ -92,7 +92,7 @@ LLMs or Large Language Models are neural networks trained on massive amounts of 
 * [Deep Learning Specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/)
 * [Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/)
 * [Google AI for Anyone](https://www.edx.org/course/google-ai-for-anyone?index=product&queryID=20f255a72e55f01f6dbb7ba10089489d&position=3)
-* [https://www.coursera.org/specializations/ai-foundations-for-everyone](https://www.coursera.org/specializations/ai-foundations-for-everyone)
+* [AI Foundations for Everyone Specialization](https://www.coursera.org/specializations/ai-foundations-for-everyone)
 
 # AI Related Visualization 👀 
 
