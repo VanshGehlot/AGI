@@ -6,7 +6,7 @@ Generative artificial intelligence is a branch of AI focused on using machine le
 
 Some examples of generative AI include:
 
-* **Generative Adversarial Networks ([GANs](https://developers.google.com/machine-learning/gan)):**    GANs use two neural networks, a generator and a discriminator, that compete against each other to create new data samples. GANs have been used to generate photorealistic images, human faces, works of art, and more.
+* **Generative Adversarial Networks ([GANs](https://developers.google.com/machine-learning/gan))([GAN-Zoo](https://github.com/hindupuravinash/the-gan-zoo)):**    GANs use two neural networks, a generator and a discriminator, that compete against each other to create new data samples. GANs have been used to generate photorealistic images, human faces, works of art, and more.
 
 
 
