@@ -93,6 +93,7 @@ LLMs or Large Language Models are neural networks trained on massive amounts of 
 * [Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/)
 * [Google AI for Anyone](https://www.edx.org/course/google-ai-for-anyone?index=product&queryID=20f255a72e55f01f6dbb7ba10089489d&position=3)
 * [AI Foundations for Everyone Specialization](https://www.coursera.org/specializations/ai-foundations-for-everyone)
+* [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans?campaignid=20592826467&adgroupid=153945745853&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=675461057955&hide_mobile_promo)
 
 # AI Related Visualization 👀 
 
