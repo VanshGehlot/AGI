@@ -2,7 +2,7 @@
 
 ### A curated list of tools and resources to help you accelerate your journey toward building AGI 🤖 
 
-Generative artificial intelligence is a branch of AI focused on using machine learning algorithms to generate new content such as images, video, text, and audio. The goal is for AI systems to create unique, original artifacts that seem as if they were created by humans.
+Generative artificial intelligence is a branch of AI focused on using machine learning algorithms to generate new content such as images, video, text, and audio. The goal is for AI systems to create unique, original artefacts that seem as if they were created by humans.
 
 Some examples of generative AI include:
 
@@ -32,7 +32,7 @@ LLMs or Large Language Models are neural networks trained on massive amounts of 
 
 * They employ the transformer architecture, which uses an attention mechanism to understand the context and relationships between words in a sentence. This allows the model to handle long-range dependencies in language.
 
-* They are usually pretrained on a general language modeling task and then fine-tuned for more specific downstream tasks like question answering, text summarization, and sentiment analysis.
+* They are usually pre-trained on a general language modelling task and then fine-tuned for more specific downstream tasks like question answering, text summarization, and sentiment analysis.
 
 * They generate text by predicting the next most likely word in a sequence given the context. The output can seem very human and coherent.
 
@@ -55,7 +55,7 @@ LLMs or Large Language Models are neural networks trained on massive amounts of 
 
 * **Stanford Transformers Class**: "CS25: Transformers United", Stanford, 2022, [[Website](https://web.stanford.edu/class/cs25/)]
 
-* **Andrej Karpathy GPT Tutorial**: "Let's build GPT: from scratch, in code, spelled out." Andrej Karpathy, 2023 [[Youtube Video](https://www.youtube.com/watch?v=kCc8FmEb1nY)]
+* **Andrej Karpathy GPT Tutorial**: "Let's build GPT: from scratch, in code, spelt out." Andrej Karpathy, 2023 [[Youtube Video](https://www.youtube.com/watch?v=kCc8FmEb1nY)]
 
 # Robotics Educational Resources <a name="robotics"></a> 
 * **AI-Enabled Robotics Class**: "CS199: Stanford Robotics Independent Study", Stanford, 2023, [[Website](https://pupper-independent-study.readthedocs.io/en/latest/index.html)] 
@@ -84,16 +84,38 @@ LLMs or Large Language Models are neural networks trained on massive amounts of 
 
 * **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", ACL, Jun 2021. [[Paper](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 
-# Free Cources Available 🧠 
+# Free Courses Available 🧠 
 
 * [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-* [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
-* [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
+* [Microsoft GenAI Basics](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity)
+* [Prompt Engineering Pro](https://learnprompting.org/)
 * [Deep Learning Specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/)
 * [Machine Learning Specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/)
 * [Google AI for Anyone](https://www.edx.org/course/google-ai-for-anyone?index=product&queryID=20f255a72e55f01f6dbb7ba10089489d&position=3)
 * [AI Foundations for Everyone Specialization](https://www.coursera.org/specializations/ai-foundations-for-everyone)
 * [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans?campaignid=20592826467&adgroupid=153945745853&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=675461057955&hide_mobile_promo)
+* [Google's Ethical AI](https://www.cloudskillsboost.google/course_templates/554)
+* [Harvard Machine Learning](https://pll.harvard.edu/course/data-science-machine-learning)
+* [Generative AI by Microsoft](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/)
+* [Amazon's AI Strategy](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers)
+* [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+* [AI For Everyone](https://www.deeplearning.ai/courses/ai-for-everyone/)
+* [AI Introduction by Harvard](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05)
+* [Prompt Engineering Basics](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering)
+* [Microsoft GenAI Basics](https://www.linkedin.com/learning/what-is-generative-ai/generative-ai-is-a-tool-in-service-of-humanity)
+* [Prompt Engineering Pro](https://learnprompting.org/)
+* [OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/)
+* [Tensorflow Bootcamp](https://opencv.org/university/free-tensorflow-keras-course/)
+* [ChatGPT Prompts Mastery](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+* [Intro to Generative AI](https://www.cloudskillsboost.google/course_templates/536)
+* [AI Introduction by Harvard](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05)
+* [LangChain App Developer](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+* [Bing Chat Applications](https://www.linkedin.com/learning/streamlining-your-work-with-microsoft-bing-chat/put-your-fingers-to-work-chatting-as-a-productivity-tool)
+* [GenAI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
+* [AWS GenAI Foundation](https://www.coursera.org/learn/generative-ai-with-llms)
+
+  
+
 
 # AI Related Visualization 👀 
 
