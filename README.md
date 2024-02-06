@@ -135,4 +135,4 @@ LLMs or Large Language Models are neural networks trained on massive amounts of 
 
 #
 
-#### Curated By - Vansh Gehlot [[LinekdIn](https://www.linkedin.com/in/vanshgehlot/)] [[Twitter](https://twitter.com/VanshGehlotJDH)] [[Website](https://vanshgehlot.us)]
+#### Curated By - Vansh Gehlot [[LinkedIn](https://www.linkedin.com/in/vanshgehlot/)] [[Twitter](https://twitter.com/VanshGehlotJDH)] [[Website](https://vanshgehlot.us)]
