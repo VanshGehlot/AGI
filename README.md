@@ -113,6 +113,19 @@ LLMs or Large Language Models are neural networks trained on massive amounts of 
 * [Bing Chat Applications](https://www.linkedin.com/learning/streamlining-your-work-with-microsoft-bing-chat/put-your-fingers-to-work-chatting-as-a-productivity-tool)
 * [GenAI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
 * [AWS GenAI Foundation](https://www.coursera.org/learn/generative-ai-with-llms)
+* [Advanced Learning Algorithms by Stanford](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+* [Amazon's AI Strategy](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1909/generative-ai-learning-plan-for-decision-makers)
+* [Introduction to AI by IBM](https://www.coursera.org/learn/introduction-to-ai)
+* [ML with Python by IBM](https://www.coursera.org/learn/machine-learning-with-python)
+* [AI Introduction by Harvard](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05)
+* [Prompt Engineering Intro](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering)
+* [Google's Ethical AI](https://www.cloudskillsboost.google/course_templates/554)
+* [Intro to Generative AI](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17176/introduction-to-generative-ai-art-of-the-possible)
+* [Tensorflow Google Cloud](https://www.coursera.org/learn/intro-tensorflow)
+* [Structuring ML Projects](https://www.coursera.org/learn/machine-learning-projects)
+* [Prompt Engineering Pro](https://learnprompting.org)
+* [Advanced ML by Google](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
+* [Harvard Data Science & ML](https://pll.harvard.edu/course/data-science-machine-learning)
 
   
 
