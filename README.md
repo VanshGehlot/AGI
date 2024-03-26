@@ -48,41 +48,7 @@ LLMs or Large Language Models are neural networks trained on massive amounts of 
 
 * Multimodal learning by incorporating images, speech, and other data types.
 
-* Achieving human-level language understanding, which remains an open challenge.
-
-# LLMs Educational Resources <a name="llms"></a> 📚 
-* **START HERE**: "Transformers from Scratch", Brandon Rohrer, [[Website](https://e2eml.school/transformers.html)]
-
-* **Stanford Transformers Class**: "CS25: Transformers United", Stanford, 2022, [[Website](https://web.stanford.edu/class/cs25/)]
-
-* **Andrej Karpathy GPT Tutorial**: "Let's build GPT: from scratch, in code, spelt out." Andrej Karpathy, 2023 [[Youtube Video](https://www.youtube.com/watch?v=kCc8FmEb1nY)]
-
-# Robotics Educational Resources <a name="robotics"></a> 
-* **AI-Enabled Robotics Class**: "CS199: Stanford Robotics Independent Study", Stanford, 2023, [[Website](https://pupper-independent-study.readthedocs.io/en/latest/index.html)] 
-
-## LLMs + Robotics Educational Resources <a name="llms-and-robotics"></a> 
-* **Google's 2022 Research**: "Google Research, 2022 & beyond: Robotics", Google, 2023, [[Website](https://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html)]
-
-* **Controlling Robots Via Large Language Models**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
-
-## Reasoning <a name="research-reasoning"></a>  
-* **AutoTAMP**: "AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers", arXiv, June 2023. [[Paper](https://arxiv.org/pdf/2306.06531.pdf)]
-
-* **LLM Designs Robots**: "CAN LARGE LANGUAGE MODELS DESIGN A ROBOT?", arXiv, Mar 2023. [[Paper](https://arxiv.org/pdf/2303.15324.pdf)]
-
-* **PaLM-E**: "PaLM-E: An Embodied Multimodal Language Model", arXiV, Mar 2023. [[Paper](https://arxiv.org/abs/2303.03378)] [[Website](https://palm-e.github.io)] [[Demo](https://palm-e.github.io/#demo)]
-
-* **RT-1**: "RT-1: Robotics Transformer for Real-World Control at Scale", arXiv, Dec 2022. [[Paper](https://arxiv.org/abs/2212.06817)] [[Code](https://github.com/google-research/robotics_transformer)] [[Website](https://robotics-transformer.github.io)]
-
-* **ProgPrompt**: "Generating Situated Robot Task Plans using Large Language Models", arXiv, Sept 2022.  [[Paper](https://arxiv.org/abs/2209.11302)] [[Code Doesn't Really Exist here](https://github.com/progprompt/progprompt)] [[Website](https://progprompt.github.io)]
-
-* **Code-As-Policies**: "Code as Policies: Language Model Programs for Embodied Control", arXiv, Sept 2022.  [[Paper](https://arxiv.org/abs/2209.07753)] [[Code](https://github.com/google-research/google-research/tree/master/code_as_policies)] [[Website](https://code-as-policies.github.io)]
-
-* **Say-Can**: "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances", arXiv, Apr 2021. [[Paper](https://arxiv.org/abs/2204.01691)] [[Code](https://say-can.github.io/#open-source)] [[Website](https://say-can.github.io)]
-
-* **Socratic**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", arXiv, Apr 2021. [[Paper](https://arxiv.org/abs/2204.00598)] [[Code](https://socraticmodels.github.io/#code)] [[Website](https://socraticmodels.github.io)]
-
-* **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", ACL, Jun 2021. [[Paper](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
+* Achieving human-level language understanding, which remains an open challenge
 
 # Free Courses Available [40+] 🧠 
 
@@ -127,7 +93,39 @@ LLMs or Large Language Models are neural networks trained on massive amounts of 
 * [Advanced ML by Google](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
 * [Harvard Data Science & ML](https://pll.harvard.edu/course/data-science-machine-learning)
 
-  
+# LLMs Educational Resources <a name="llms"></a> 📚 
+* **START HERE**: "Transformers from Scratch", Brandon Rohrer, [[Website](https://e2eml.school/transformers.html)]
+
+* **Stanford Transformers Class**: "CS25: Transformers United", Stanford, 2022, [[Website](https://web.stanford.edu/class/cs25/)]
+
+* **Andrej Karpathy GPT Tutorial**: "Let's build GPT: from scratch, in code, spelt out." Andrej Karpathy, 2023 [[Youtube Video](https://www.youtube.com/watch?v=kCc8FmEb1nY)]
+
+# Robotics Educational Resources <a name="robotics"></a> 
+* **AI-Enabled Robotics Class**: "CS199: Stanford Robotics Independent Study", Stanford, 2023, [[Website](https://pupper-independent-study.readthedocs.io/en/latest/index.html)] 
+
+## LLMs + Robotics Educational Resources <a name="llms-and-robotics"></a> 
+* **Google's 2022 Research**: "Google Research, 2022 & beyond: Robotics", Google, 2023, [[Website](https://ai.googleblog.com/2023/02/google-research-2022-beyond-robotics.html)]
+
+* **Controlling Robots Via Large Language Models**: "Controlling Robots Via Large Language Models", *Sanjiban Choudhury, CS 4756/5756, Cornell, 2023* [[Slides](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)]
+
+## Reasoning <a name="research-reasoning"></a>  
+* **AutoTAMP**: "AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers", arXiv, June 2023. [[Paper](https://arxiv.org/pdf/2306.06531.pdf)]
+
+* **LLM Designs Robots**: "CAN LARGE LANGUAGE MODELS DESIGN A ROBOT?", arXiv, Mar 2023. [[Paper](https://arxiv.org/pdf/2303.15324.pdf)]
+
+* **PaLM-E**: "PaLM-E: An Embodied Multimodal Language Model", arXiV, Mar 2023. [[Paper](https://arxiv.org/abs/2303.03378)] [[Website](https://palm-e.github.io)] [[Demo](https://palm-e.github.io/#demo)]
+
+* **RT-1**: "RT-1: Robotics Transformer for Real-World Control at Scale", arXiv, Dec 2022. [[Paper](https://arxiv.org/abs/2212.06817)] [[Code](https://github.com/google-research/robotics_transformer)] [[Website](https://robotics-transformer.github.io)]
+
+* **ProgPrompt**: "Generating Situated Robot Task Plans using Large Language Models", arXiv, Sept 2022.  [[Paper](https://arxiv.org/abs/2209.11302)] [[Code Doesn't Really Exist here](https://github.com/progprompt/progprompt)] [[Website](https://progprompt.github.io)]
+
+* **Code-As-Policies**: "Code as Policies: Language Model Programs for Embodied Control", arXiv, Sept 2022.  [[Paper](https://arxiv.org/abs/2209.07753)] [[Code](https://github.com/google-research/google-research/tree/master/code_as_policies)] [[Website](https://code-as-policies.github.io)]
+
+* **Say-Can**: "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances", arXiv, Apr 2021. [[Paper](https://arxiv.org/abs/2204.01691)] [[Code](https://say-can.github.io/#open-source)] [[Website](https://say-can.github.io)]
+
+* **Socratic**: "Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language", arXiv, Apr 2021. [[Paper](https://arxiv.org/abs/2204.00598)] [[Code](https://socraticmodels.github.io/#code)] [[Website](https://socraticmodels.github.io)]
+
+* **PIGLeT**: "PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World", ACL, Jun 2021. [[Paper](https://arxiv.org/abs/2201.07207)] [[Code](https://github.com/rowanz/piglet)] [[Website](https://rowanzellers.com/piglet/)]
 
 
 # AI Related Visualization 👀 
