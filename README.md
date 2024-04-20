@@ -131,6 +131,7 @@ LLMs or Large Language Models are neural networks trained on massive amounts of 
 # AI Related Visualization 👀 
 
 * [Tensorflow Playground](https://playground.tensorflow.org/) - Neural Network Training Visualization
+* [Artificial Intelligence - Data Science - Cheat Sheet](https://drive.google.com/file/d/1LWWu0ziOsmefQpfaDvgnY22_HMAIg0Jw/view?usp=sharing) - Python Cheat Sheet
 * [Visualizing High-Dimensional Space](https://experiments.withgoogle.com/visualizing-high-dimensional-space) - Visualizing High-Dimensional Space
 * [Word Embedding Visual Inspector](https://ronxin.github.io/wevi/) - Embedding Visualization
 
