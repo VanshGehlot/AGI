@@ -9,3 +9,5 @@ Framer - framer.com
 Gamma -gamma.app
 AGI Resources - github.com/VanshGehlot/AGI
 
+* [Figma](https://pll.harvard.edu/course/data-science-machine-learning)
+
